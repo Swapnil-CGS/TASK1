@@ -11,3 +11,10 @@ Tools: Nmap (free), Wireshark (optional).
 6.Research common services running on those ports.
 7.Identify potential security risks from open ports.
 8.Save scan results as a text or HTML file.
+
+
+
+Steps:
+- Installed NMap from https://nmap.org/download
+- Followed on screen instructions for installation of NMAP
+- Rest all the process i have captured in the attached document.
